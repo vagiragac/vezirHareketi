@@ -1,0 +1,6 @@
+c:\users\veli\documents\visual studio 2015\Projects\14253001HW2\14253001HW2\bin\Debug\14253001HW2.exe.config
+c:\users\veli\documents\visual studio 2015\Projects\14253001HW2\14253001HW2\bin\Debug\14253001HW2.exe
+c:\users\veli\documents\visual studio 2015\Projects\14253001HW2\14253001HW2\bin\Debug\14253001HW2.pdb
+c:\users\veli\documents\visual studio 2015\Projects\14253001HW2\14253001HW2\obj\Debug\14253001HW2.exe
+c:\users\veli\documents\visual studio 2015\Projects\14253001HW2\14253001HW2\obj\Debug\14253001HW2.pdb
+C:\Users\veli\documents\visual studio 2015\Projects\14253001HW2\14253001HW2\obj\Debug\14253001HW2.csprojResolveAssemblyReference.cache
